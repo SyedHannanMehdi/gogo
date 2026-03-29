@@ -1,6 +1,6 @@
 # gogo
 
-Welcome to the **gogo** repository!
+Welcome to the `gogo` repository!
 
 ## Getting Started
 
