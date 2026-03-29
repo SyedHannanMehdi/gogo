@@ -1,9 +1,13 @@
-// gogo - entry point
-
-'use strict';
+/**
+ * gogo - Node.js entry point
+ */
 
 function main() {
-  console.log('Hello from gogo! 🚀');
+  console.log('Welcome to gogo!');
 }
 
-main();
+if (require.main === module) {
+  main();
+}
+
+module.exports = { main };
