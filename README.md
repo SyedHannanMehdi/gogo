@@ -1,14 +1,19 @@
 # gogo
 
-A test repository for bounty experiments.
+A simple project repository.
 
-## Overview
+## Getting Started
 
-This repository is used for testing the Algora bounty platform integration.
+Clone the repository and explore the contents.
+
+```bash
+git clone https://github.com/18605041367/gogo.git
+cd gogo
+```
 
 ## Contributing
 
-Contributions are welcome! Please open an issue or pull request to get started.
+Contributions are welcome! Please open an issue or submit a pull request.
 
 ## License
 
