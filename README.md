@@ -1,28 +1,29 @@
 # gogo
 
-A simple starter project.
+Welcome to the **gogo** repository!
 
 ## Getting Started
 
-Clone the repository and open `index.html` in your browser, or run the Node.js entry point:
+### Node.js
 
 ```bash
 node index.js
 ```
 
+### Browser
+
+Open `index.html` in your browser.
+
 ## Project Structure
 
 ```
 gogo/
-├── index.html   # Browser entry point
 ├── index.js     # Node.js entry point
-└── README.md    # This file
+├── index.html   # Browser entry point
+├── README.md    # This file
+└── LICENSE      # License file
 ```
-
-## Contributing
-
-Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
 
-[MIT](LICENSE)
+This project is licensed under the [MIT License](LICENSE).
