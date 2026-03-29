@@ -1,29 +1,35 @@
-# gogo
+# gogo 🚀
 
-Welcome to the `gogo` repository!
+A fast, minimal project starter.
 
 ## Getting Started
 
-### Node.js
+Clone the repository and install dependencies:
 
 ```bash
-node index.js
+git clone https://github.com/18605041367/gogo.git
+cd gogo
+npm install
 ```
 
-### Browser
+## Usage
 
-Open `index.html` in your browser.
-
-## Project Structure
-
+```bash
+npm start
 ```
-gogo/
-├── index.js     # Node.js entry point
-├── index.html   # Browser entry point
-├── README.md    # This file
-└── LICENSE      # License file
-```
+
+## Scripts
+
+| Script | Description |
+|--------|-------------|
+| `npm start` | Run the application |
+| `npm test` | Run the test suite |
+| `npm run build` | Build for production |
+
+## Contributing
+
+Pull requests are welcome! Please open an issue first to discuss what you would like to change.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+[MIT](LICENSE)
